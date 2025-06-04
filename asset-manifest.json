@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/patient-tracking-system/static/css/main.a694801b.css",
-    "main.js": "/patient-tracking-system/static/js/main.66d276d9.js",
+    "main.css": "/patient-tracking-system/static/css/main.3447005c.css",
+    "main.js": "/patient-tracking-system/static/js/main.2299faa6.js",
     "index.html": "/patient-tracking-system/index.html",
-    "main.a694801b.css.map": "/patient-tracking-system/static/css/main.a694801b.css.map",
-    "main.66d276d9.js.map": "/patient-tracking-system/static/js/main.66d276d9.js.map"
+    "main.3447005c.css.map": "/patient-tracking-system/static/css/main.3447005c.css.map",
+    "main.2299faa6.js.map": "/patient-tracking-system/static/js/main.2299faa6.js.map"
   },
   "entrypoints": [
-    "static/css/main.a694801b.css",
-    "static/js/main.66d276d9.js"
+    "static/css/main.3447005c.css",
+    "static/js/main.2299faa6.js"
   ]
 }
