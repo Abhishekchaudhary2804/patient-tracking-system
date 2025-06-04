@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/patient-tracking-system/static/css/main.a694801b.css",
+    "main.js": "/patient-tracking-system/static/js/main.66d276d9.js",
+    "index.html": "/patient-tracking-system/index.html",
+    "main.a694801b.css.map": "/patient-tracking-system/static/css/main.a694801b.css.map",
+    "main.66d276d9.js.map": "/patient-tracking-system/static/js/main.66d276d9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a694801b.css",
+    "static/js/main.66d276d9.js"
+  ]
+}
