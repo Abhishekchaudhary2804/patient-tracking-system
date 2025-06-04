@@ -69,6 +69,9 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 ---
+## 🚀 Live Demo
+
+👉 [Click here to view the live project](https://Abhishekchaudhary2804.github.io/patient-tracking-system)
 
 ## Screenshots
 
