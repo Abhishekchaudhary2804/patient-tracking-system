@@ -71,7 +71,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 ---
 ## 🚀 Live Demo
 
-👉 [Click here to view the live project](https://Abhishekchaudhary2804.github.io/patient-tracking-system)
+👉 [Click here to view the live project](https://abhishekchaudhary2804.github.io/)
 
 ## Screenshots
 
